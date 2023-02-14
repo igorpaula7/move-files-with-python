@@ -1,4 +1,10 @@
 # Mover arquivos com Python
+
+### Objetivo do projeto:
+Copiar os LOGS do MiKrotik Syslog Daemon e colocar em uma pasta segura, utilizando Python
+
+### Step by Step
+
 O primeiro passo é importar as bibliotecas:
 ```python
 import os # comandos no sistema operacional
